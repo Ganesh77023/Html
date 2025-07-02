@@ -1,0 +1,11 @@
+Anchor Tags
+-navigation / routing
+
+<a> </a>
+
+
+Attributes
+
+href
+
+centre tag is a deprecated tag.
