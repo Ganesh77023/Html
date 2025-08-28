@@ -1,0 +1,35 @@
+.mainContainer{
+    height: 650px;
+}
+.main1{
+    height: 260px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.main2{
+    height: 260px;
+    display: flex;
+    justify-content: space-evenly;    
+}
+.hs{
+    width: 250px;
+    height: 250px;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.hs:hover img{
+    display: none;
+}
+.hs:hover h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 1;
+    background-color: pink;
+}
+h3{
+    color: aliceblue;
+    opacity: 0;
+}
